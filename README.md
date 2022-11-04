@@ -1,6 +1,11 @@
 # ✌🏼😄 Hello!
 I'm Renan, a software engineering student at [42SP](https://www.42sp.org.br) currently living in [São Paulo](https://www.google.com/maps/place/42+São+Paulo/@-23.5573592,-46.6939831,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5743174fa059:0xca1cb13028d37358!8m2!3d-23.5573593!4d-46.6894931)
-<br>Feel free to mail me at rigcpj@gmail.com
+<br>Right now, I'm at the Push_Swap project, a highly straightforward sorting algorithm!<br>
+<br>Feel free to mail me at rigcpj@gmail.com or send an invite at [LinkedIn](https://www.linkedin.com/in/renanguillen/)<hr/>
+Eu sou o Renan, estudante de engenharia de software na [42SP](https://www.42sp.org.br) atualmente morando em [São Paulo](https://www.google.com/maps/place/42+São+Paulo/@-23.5573592,-46.6939831,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5743174fa059:0xca1cb13028d37358!8m2!3d-23.5573593!4d-46.6894931)
+<br>No momento estou trabalhando no Push_Swap, um algoritmo de ordenação bem direto ao ponto!
+<br>
+<br>Sinta-se a vontade para me mandar um e-mail rigcpj@gmail.com ou mandar uma solicitação no [LinkedIn](https://www.linkedin.com/in/renanguillen/)
 
 ## École 42
 <div align="center">
