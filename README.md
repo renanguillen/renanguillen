@@ -1,8 +1,7 @@
 # Hello!
 My name...
 
-## École 42 projects
-
+## École 42 👽
 <div align="center">
 
 [![libft](https://github.com/renanguillen/renanguillen/blob/main/42_badges/libftm.png)](https://github.com/renanguillen/libft)
