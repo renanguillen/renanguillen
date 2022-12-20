@@ -17,6 +17,6 @@ Eu sou o Renan, estudante de engenharia de software na [42SP](https://www.42sp.o
 [![born2beroot](https://github.com/renanguillen/renanguillen/blob/main/42_badges/born2berootm.png)](#)
 [![fdf_wireframe_model](https://github.com/renanguillen/renanguillen/blob/main/42_badges/fdfm.png)](https://github.com/renanguillen/fdf_wireframe_model)
 [![minitalk](https://github.com/renanguillen/renanguillen/blob/main/42_badges/minitalkm.png)](https://github.com/renanguillen/minitalk)
-[![push_swap](https://github.com/renanguillen/renanguillen/blob/main/42_badges/push_swapn.png)](https://github.com/renanguillen/push_swap)
+[![push_swap](https://github.com/renanguillen/renanguillen/blob/main/42_badges/push_swape.png)](https://github.com/renanguillen/push_swap)
 
 </div>
