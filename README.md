@@ -1,10 +1,10 @@
 # ✌🏼😄 Hello!
 I'm Renan, a software engineering student at [42SP](https://www.42sp.org.br) currently living in [São Paulo](https://www.google.com/maps/place/42+São+Paulo/@-23.5573592,-46.6939831,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5743174fa059:0xca1cb13028d37358!8m2!3d-23.5573593!4d-46.6894931)
-<br>Right now, I'm at the Philosophers project, this project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger
+<br>Right now, I'm at the Netpractice project, this project is about solving networking problems to make a network run
 <br>Also working on README files for all projects.<br>
 <br>Feel free to mail me at rigcpj@gmail.com or send an invite at [LinkedIn](https://www.linkedin.com/in/renanguillen/)<hr/>
 Eu sou o Renan, estudante de engenharia de software na [42SP](https://www.42sp.org.br) atualmente morando em [São Paulo](https://www.google.com/maps/place/42+São+Paulo/@-23.5573592,-46.6939831,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5743174fa059:0xca1cb13028d37358!8m2!3d-23.5573593!4d-46.6894931)
-<br>No momento estou trabalhando no Philosophers, um projeto sobre aprender o funcionamento de threads de timing preciso para não deixar os filósofos morrerem de fome
+<br>No momento estou trabalhando no Netpractice, um projeto sobre resolução de problemas de rede e sobre como fazer uma rede funcionar!
 <br>Também trabalhando em adicionar READMEs em todos os projetos.<br>
 <br>Sinta-se a vontade para me mandar um e-mail rigcpj@gmail.com ou mandar uma solicitação no [LinkedIn](https://www.linkedin.com/in/renanguillen/)
 
