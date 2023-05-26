@@ -19,6 +19,7 @@ Eu sou o Renan, estudante de engenharia de software na [42SP](https://www.42sp.o
 [![minitalk](https://github.com/renanguillen/renanguillen/blob/main/42_badges/minitalkm.png)](https://github.com/renanguillen/minitalk)
 [![push_swap](https://github.com/renanguillen/renanguillen/blob/main/42_badges/push_swape.png)](https://github.com/renanguillen/push_swap)
 [![minishell](https://github.com/renanguillen/renanguillen/blob/main/42_badges/minishellm.png)](https://github.com/ellewolfgher/minishell)
-[![philosophers](https://github.com/renanguillen/renanguillen/blob/main/42_badges/philosophersn.png)](https://github.com/renanguillen/philosophers)
-
+[![philosophers](https://github.com/renanguillen/renanguillen/blob/main/42_badges/philosopherse.png)](https://github.com/renanguillen/philosophers)
+[![netpractice](https://github.com/renanguillen/renanguillen/blob/main/42_badges/netpracticen.png)](https://github.com/renanguillen/netpractice)
+  
 </div>
