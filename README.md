@@ -1,10 +1,10 @@
 # ✌🏼😄 Hello!
 I'm Renan, a software engineering student at [42SP](https://www.42sp.org.br) currently living in [São Paulo](https://www.google.com/maps/place/42+São+Paulo/@-23.5573592,-46.6939831,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5743174fa059:0xca1cb13028d37358!8m2!3d-23.5573593!4d-46.6894931)
-<br>Right now, I'm at the Netpractice project, this project is about solving networking problems to make a network run
+<br>Right now, I'm at cub3d, my first game, a lesson about raytracing and controls!
 <br>Also working on README files for all projects.<br>
 <br>Feel free to mail me at rigcpj@gmail.com or send an invite at [LinkedIn](https://www.linkedin.com/in/renanguillen/)<hr/>
 Eu sou o Renan, estudante de engenharia de software na [42SP](https://www.42sp.org.br) atualmente morando em [São Paulo](https://www.google.com/maps/place/42+São+Paulo/@-23.5573592,-46.6939831,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5743174fa059:0xca1cb13028d37358!8m2!3d-23.5573593!4d-46.6894931)
-<br>No momento estou trabalhando no Netpractice, um projeto sobre resolução de problemas de rede e sobre como fazer uma rede funcionar!
+<br>No momento estou no cub3d, meu primeiro jogo, aprendendo sobre raytracing e controles!
 <br>Também trabalhando em adicionar READMEs em todos os projetos.<br>
 <br>Sinta-se a vontade para me mandar um e-mail rigcpj@gmail.com ou mandar uma solicitação no [LinkedIn](https://www.linkedin.com/in/renanguillen/)
 
@@ -20,6 +20,7 @@ Eu sou o Renan, estudante de engenharia de software na [42SP](https://www.42sp.o
 [![push_swap](https://github.com/renanguillen/renanguillen/blob/main/42_badges/push_swape.png)](https://github.com/renanguillen/push_swap)
 [![minishell](https://github.com/renanguillen/renanguillen/blob/main/42_badges/minishellm.png)](https://github.com/ellewolfgher/minishell)
 [![philosophers](https://github.com/renanguillen/renanguillen/blob/main/42_badges/philosopherse.png)](https://github.com/renanguillen/philosophers)
-[![netpractice](https://github.com/renanguillen/renanguillen/blob/main/42_badges/netpracticen.png)](https://github.com/renanguillen/netpractice)
+[![netpractice](https://github.com/renanguillen/renanguillen/blob/main/42_badges/netpracticee.png)](https://github.com/renanguillen/netpractice)
+[![cub3d](https://github.com/renanguillen/renanguillen/blob/main/42_badges/cub3dn.png)](https://github.com/renanguillen/cub3d)
   
 </div>
